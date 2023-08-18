@@ -1,5 +1,7 @@
 # Copy_and_Format
 
+![Clipboard Format (1)](https://github.com/obakekaiware/Copy_and_Format/assets/49265616/09955ca1-1d04-4dcf-b438-1242e6c2ce9c)
+
 ## Purpose
 
 論文をコピペするときなどに、不要な改行を除去する。
